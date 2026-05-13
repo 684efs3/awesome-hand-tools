@@ -151,6 +151,7 @@
 - [The Renaissance Woodworker, Shannon Rogers](https://www.renaissancewoodworker.com/)
 - [The Unplugged Woodshop, Tom Fidgen](https://www.theunpluggedwoodshop.com/)
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
+- [Woodwiki — The Woodworking Wiki](https://www.woodwiki.org/) — Free, evidence-driven study guides on hand tools, joinery, finishing, and wood species. Maintained by Bespoke Woodcraft Studio in Los Angeles.
 
 ## YouTube Channels
 
